@@ -1,0 +1,13 @@
+C:\Users\arkad\source\repos\MerryChristmas\MerryChristmas\bin\Debug\netcoreapp3.1\MerryChristmas.exe
+C:\Users\arkad\source\repos\MerryChristmas\MerryChristmas\bin\Debug\netcoreapp3.1\MerryChristmas.deps.json
+C:\Users\arkad\source\repos\MerryChristmas\MerryChristmas\bin\Debug\netcoreapp3.1\MerryChristmas.runtimeconfig.json
+C:\Users\arkad\source\repos\MerryChristmas\MerryChristmas\bin\Debug\netcoreapp3.1\MerryChristmas.runtimeconfig.dev.json
+C:\Users\arkad\source\repos\MerryChristmas\MerryChristmas\bin\Debug\netcoreapp3.1\MerryChristmas.dll
+C:\Users\arkad\source\repos\MerryChristmas\MerryChristmas\bin\Debug\netcoreapp3.1\MerryChristmas.pdb
+C:\Users\arkad\source\repos\MerryChristmas\MerryChristmas\obj\Debug\netcoreapp3.1\MerryChristmas.csprojAssemblyReference.cache
+C:\Users\arkad\source\repos\MerryChristmas\MerryChristmas\obj\Debug\netcoreapp3.1\MerryChristmas.AssemblyInfoInputs.cache
+C:\Users\arkad\source\repos\MerryChristmas\MerryChristmas\obj\Debug\netcoreapp3.1\MerryChristmas.AssemblyInfo.cs
+C:\Users\arkad\source\repos\MerryChristmas\MerryChristmas\obj\Debug\netcoreapp3.1\MerryChristmas.csproj.CoreCompileInputs.cache
+C:\Users\arkad\source\repos\MerryChristmas\MerryChristmas\obj\Debug\netcoreapp3.1\MerryChristmas.dll
+C:\Users\arkad\source\repos\MerryChristmas\MerryChristmas\obj\Debug\netcoreapp3.1\MerryChristmas.pdb
+C:\Users\arkad\source\repos\MerryChristmas\MerryChristmas\obj\Debug\netcoreapp3.1\MerryChristmas.genruntimeconfig.cache
